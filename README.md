@@ -1,4 +1,12 @@
-# 好奇的问题集
+## FriendLinks
+ - [https://www.uhaka.com/](https://www.uhaka.com/) 
+
+## License
+
+Inspired by [Plausible](https://plausible.io/), Dub is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. You can [find it here](https://github.com/dubinc/dub/blob/main/LICENSE.md).
+
+
+## 好奇的问题集
  - 如何使强大的人工智能工具免费或以低价提供给大众？
  - 公众对免费人工智能服务的需求和反应如何？
  - 免费提供人工智能服务对社会的潜在影响是什么？
@@ -2765,5 +2773,4 @@
  - 如何通过政策改革改善当前教育体系中的缺陷?
 
 
-# FriendLinks
- - [https://www.uhaka.com/](https://www.uhaka.com/)
+
