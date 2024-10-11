@@ -1,47 +1,56 @@
-## Blog
- - https://www.uhaka.com/blog/detail/28-questions-to-ask-yourself-every-decade
- - https://www.uhaka.com/blog/detail/pain-builds-a-stronger-you-redefining-your-journey
- - https://www.uhaka.com/blog/detail/32-questions-to-ask-yourself-every-year
- - https://www.uhaka.com/blog/detail/reassuring-works-warmth-and-trust-in-details
- - https://www.uhaka.com/blog/detail/amazon-long-termism
- - https://www.uhaka.com/blog/detail/researchers-and-entrepreneurs
- - https://www.uhaka.com/blog/detail/best-tools-show-wisdom-in-choices
- - https://www.uhaka.com/blog/detail/security-issue-report-guide
- - https://www.uhaka.com/blog/detail/big-companies-instead-of-copying-cursor-should-make-ai-email-client
- - https://www.uhaka.com/blog/detail/single-customer-economics-startup-success
- - https://www.uhaka.com/blog/detail/concise-explanation-accelerates-progresssmall-steps-every-day-accumulation-changes-life
- - https://www.uhaka.com/blog/detail/continuous-improvement-breaking-tradition-embracing-innovationthe-graphrag-manifesto-adding-knowledge-to-genai
- - https://www.uhaka.com/blog/detail/do-not-delegate-understanding-to-others
- - https://www.uhaka.com/blog/detail/tips-vs-search
- - https://www.uhaka.com/blog/detail/empathy-peace-of-mind
- - https://www.uhaka.com/blog/detail/transform-pain-into-knowledge
- - https://www.uhaka.com/blog/detail/finite-games-infinite-games
- - https://www.uhaka.com/blog/detail/translator-gpt-prompt-v2
- - https://www.uhaka.com/blog/detail/follow-your-passion
- - https://www.uhaka.com/blog/detail/truth-of-success-and-growth
- - https://www.uhaka.com/blog/detail/founder-modeuhaka-data-collection-personal-information
- - https://www.uhaka.com/blog/detail/how-successful-companies-startuhaka-follow-robots-txt
- - https://www.uhaka.com/blog/detail/how-to-develop-independent-thinking-break-out-of-the-norm
- - https://www.uhaka.com/blog/detail/uhaka-generate-images
- - https://www.uhaka.com/blog/detail/how-to-generate-great-startup-ideas-from-ideas-to-actionuhaka-privacy-policy
- - https://www.uhaka.com/blog/detail/how-to-report-errors-to-uhaka
- - https://www.uhaka.com/blog/detail/uhaka-use-case-example
- - https://www.uhaka.com/blog/detail/how-to-surpass-most-people-reflecting-on-success-and-the-power-of-counterintuitive-thinking
- - https://www.uhaka.com/blog/detail/uhaka-uses
- - https://www.uhaka.com/blog/detail/how-to-write-a-useful-article
- - https://www.uhaka.com/blog/detail/understanding-complex-things
- - https://www.uhaka.com/blog/detail/how-to-write-heartwarming-story
- - https://www.uhaka.com/blog/detail/understanding-through-long-term-experience
- - https://www.uhaka.com/blog/detail/how-uhaka-works
- - https://www.uhaka.com/blog/detail/user-supported-product-back-to-original-business-choice
- - https://www.uhaka.com/blog/detail/identify-real-challenges-in-a-complex-world
- - https://www.uhaka.com/blog/detail/value-created-by-action-balance-of-mind-and-action
- - https://www.uhaka.com/blog/detail/insights-from-multiple-relationships-deep-emotions-and-self-growthwhat-else-can-we-remove-simplify-and-clean-up-deep-thinking
- - https://www.uhaka.com/blog/detail/is-gpt35-good-enough-for-ragwhat-is-answer-engine-and-how-uhaka-works
- - https://www.uhaka.com/blog/detail/keep-learning-keep-teaching-growth-and-legacy-in-life
- - https://www.uhaka.com/blog/detail/what-is-uhaka
- - https://www.uhaka.com/blog/detail/meet-aravind-from-india-who-quit-openai-to-disrupt-google-conversation-with-marina-mogilko
- - https://www.uhaka.com/blog/detail/why-challenging-startup-projects-are-more-likely-to-succeed
- - https://www.uhaka.com/blog/detail/misunderstood-power-how-to-grow-from-misunderstanding
- - https://www.uhaka.com/blog/detail/write-down-your-thoughts-how-writing-clarifies-thinking
- - https://www.uhaka.com/blog/detail/modern-nanyang-hainanese-associations-and-life
+## 文章列表
+
+- [28 Questions to Ask Yourself Every Decade](https://www.uhaka.com/blog/detail/28-questions-to-ask-yourself-every-decade)
+- [Pain Builds a Stronger You: Redefining Your Journey](https://www.uhaka.com/blog/detail/pain-builds-a-stronger-you-redefining-your-journey)
+- [32 Questions to Ask Yourself Every Year](https://www.uhaka.com/blog/detail/32-questions-to-ask-yourself-every-year)
+- [Reassuring Works: Warmth and Trust in Details](https://www.uhaka.com/blog/detail/reassuring-works-warmth-and-trust-in-details)
+- [Amazon Long-termism](https://www.uhaka.com/blog/detail/amazon-long-termism)
+- [Researchers and Entrepreneurs](https://www.uhaka.com/blog/detail/researchers-and-entrepreneurs)
+- [Best Tools: Show Wisdom in Choices](https://www.uhaka.com/blog/detail/best-tools-show-wisdom-in-choices)
+- [Security Issue Report Guide](https://www.uhaka.com/blog/detail/security-issue-report-guide)
+- [Big Companies Should Make AI Email Client](https://www.uhaka.com/blog/detail/big-companies-instead-of-copying-cursor-should-make-ai-email-client)
+- [Single Customer Economics for Startup Success](https://www.uhaka.com/blog/detail/single-customer-economics-startup-success)
+- [Concise Explanation Accelerates Progress](https://www.uhaka.com/blog/detail/concise-explanation-accelerates-progress)
+- [small steps every day accumulation changes life](https://www.uhaka.com/blog/detail/small-steps-every-day-accumulation-changes-life)
+- [Continuous Improvement and Innovation](https://www.uhaka.com/blog/detail/continuous-improvement-breaking-tradition-embracing-innovation)
+- [the graphrag manifesto adding knowledge to genai](https://www.uhaka.com/blog/detail/the-graphrag-manifesto-adding-knowledge-to-genai)
+- [Do Not Delegate Understanding to Others](https://www.uhaka.com/blog/detail/do-not-delegate-understanding-to-others)
+- [Tips vs Search](https://www.uhaka.com/blog/detail/tips-vs-search)
+- [Empathy and Peace of Mind](https://www.uhaka.com/blog/detail/empathy-peace-of-mind)
+- [Transform Pain into Knowledge](https://www.uhaka.com/blog/detail/transform-pain-into-knowledge)
+- [Finite Games vs Infinite Games](https://www.uhaka.com/blog/detail/finite-games-infinite-games)
+- [Translator GPT Prompt V2](https://www.uhaka.com/blog/detail/translator-gpt-prompt-v2)
+- [Follow Your Passion](https://www.uhaka.com/blog/detail/follow-your-passion)
+- [Truth of Success and Growth](https://www.uhaka.com/blog/detail/truth-of-success-and-growth)
+- [Founder Mode: Data Collection and Personal Info](https://www.uhaka.com/blog/detail/founder-mode)
+- [uhaka data collection personal information](https://www.uhaka.com/blog/detail/uhaka-data-collection-personal-information)
+- [How Successful Companies Start: Follow Robots.txt](https://www.uhaka.com/blog/detail/how-successful-companies-start)
+- [uhaka follow robots txt](https://www.uhaka.com/blog/detail/uhaka-follow-robots-txt)
+- [Develop Independent Thinking](https://www.uhaka.com/blog/detail/how-to-develop-independent-thinking-break-out-of-the-norm)
+- [Uhaka Generate Images](https://www.uhaka.com/blog/detail/uhaka-generate-images)
+- [How to Generate Great Startup Ideas](https://www.uhaka.com/blog/detail/how-to-generate-great-startup-ideas-from-ideas-to-action)
+- [uhaka privacy policy](https://www.uhaka.com/blog/detail/uhaka-privacy-policy)
+- [How to Report Errors to Uhaka](https://www.uhaka.com/blog/detail/how-to-report-errors-to-uhaka)
+- [Uhaka Use Case Example](https://www.uhaka.com/blog/detail/uhaka-use-case-example)
+- [How to Surpass Most People](https://www.uhaka.com/blog/detail/how-to-surpass-most-people-reflecting-on-success-and-the-power-of-counterintuitive-thinking)
+- [Uhaka Uses](https://www.uhaka.com/blog/detail/uhaka-uses)
+- [How to Write a Useful Article](https://www.uhaka.com/blog/detail/how-to-write-a-useful-article)
+- [Understanding Complex Things](https://www.uhaka.com/blog/detail/understanding-complex-things)
+- [How to Write a Heartwarming Story](https://www.uhaka.com/blog/detail/how-to-write-heartwarming-story)
+- [Understanding Through Long-term Experience](https://www.uhaka.com/blog/detail/understanding-through-long-term-experience)
+- [How Uhaka Works](https://www.uhaka.com/blog/detail/how-uhaka-works)
+- [User-supported Product](https://www.uhaka.com/blog/detail/user-supported-product-back-to-original-business-choice)
+- [Identify Real Challenges](https://www.uhaka.com/blog/detail/identify-real-challenges-in-a-complex-world)
+- [Value Created by Action](https://www.uhaka.com/blog/detail/value-created-by-action-balance-of-mind-and-action)
+- [Insights from Relationships](https://www.uhaka.com/blog/detail/insights-from-multiple-relationships-deep-emotions-and-self-growthwhat-else-can-we-remove-simplify-and-clean-up-deep-thinking)
+- [Is GPT-3.5 Good Enough?](https://www.uhaka.com/blog/detail/is-gpt35-good-enough-for-rag)
+- [what-is-answer-engine-and-how-uhaka-works](https://www.uhaka.com/blog/detail/what-is-answer-engine-and-how-uhaka-works)
+- [Keep Learning, Keep Teaching](https://www.uhaka.com/blog/detail/keep-learning-keep-teaching-growth-and-legacy-in-life)
+- [What is Uhaka](https://www.uhaka.com/blog/detail/what-is-uhaka)
+- [Meet Aravind from India](https://www.uhaka.com/blog/detail/meet-aravind-from-india-who-quit-openai-to-disrupt-google-conversation-with-marina-mogilko)
+- [Why Challenging Projects Succeed](https://www.uhaka.com/blog/detail/why-challenging-startup-projects-are-more-likely-to-succeed)
+- [Misunderstood Power](https://www.uhaka.com/blog/detail/misunderstood-power-how-to-grow-from-misunderstanding)
+- [Write Down Your Thoughts](https://www.uhaka.com/blog/detail/write-down-your-thoughts-how-writing-clarifies-thinking)
+- [Modern Nanyang Hainanese Associations](https://www.uhaka.com/blog/detail/modern-nanyang-hainanese-associations-and-life)
+- [What is the mission of Uhaka](https://www.uhaka.com/blog/detail/what-is-the-mission-of-uhaka)
+- [The purpose of Uhaka](https://www.uhaka.com/blog/detail/what-is-the-mission-of-uhaka)
