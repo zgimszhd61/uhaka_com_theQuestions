@@ -1,5 +1,6 @@
 ## FriendLinks
- - [https://www.uhaka.com/](https://www.uhaka.com/) 
+ - [https://www.uhaka.com/](https://www.uhaka.com/)
+ - [https://www.uhaka.com/blog/list](https://www.uhaka.com/blog/list)
 
 ## License
 
