@@ -3,8 +3,7 @@
 
 ## License
 
-Inspired by [Plausible](https://plausible.io/), Dub is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. You can [find it here](https://github.com/dubinc/dub/blob/main/LICENSE.md).
-
+Inspired by [Plausible](https://plausible.io/), this is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version.
 
 ## 好奇的问题集
  - 如何使强大的人工智能工具免费或以低价提供给大众？
