@@ -6,7 +6,67 @@
 
 Inspired by [Plausible](https://plausible.io/), this is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version.
 
-## 好奇的问题集
+## 问题集
+ - What are the main risks associated with powerful AI?
+ - How can AI be leveraged to maximize benefits while minimizing risks?
+ - In what ways might people underestimate the positive potential of AI?
+ - Why is it important to discuss both the risks and benefits of AI?
+ - How does the perception of AI companies impact public trust?
+ - What strategies can companies like Anthropic use to manage AI’s risks?
+ - What are the ethical concerns related to promoting AI’s benefits?
+ - How can AI avoid being seen as mere propaganda?
+ - Why might grandiosity harm the discourse on AI’s potential?
+ - How does “sci-fi” language affect public understanding of AI?
+ - What positive-sum outcomes are achievable through AI advancements?
+ - What role does AI play in the future of human health?
+ - How can AI help in eradicating diseases?
+ - What could be AI's role in cancer prevention and treatment?
+ - What are some potential breakthroughs in neuroscience using AI?
+ - How can AI contribute to economic development in developing countries?
+ - What challenges could arise from implementing AI in governance?
+ - How could AI impact global inequality?
+ - What is AI's potential role in promoting peace and stability?
+ - How might AI contribute to improvements in mental health?
+ - What are the main obstacles to AI-powered societal advances?
+ - How can AI help reduce poverty in underdeveloped regions?
+ - What role can AI play in food security and agricultural innovation?
+ - How might AI be used to combat climate change?
+ - What ethical considerations arise from AI in mental health treatment?
+ - How could AI enable new forms of biological freedom?
+ - What are the main factors limiting the effectiveness of AI in biology?
+ - How might AI improve the clinical trial process?
+ - How can AI help solve complex global health problems?
+ - What impact could AI have on the longevity of human life?
+ - What are the social implications of AI in economic growth?
+ - How might AI change the global landscape of work and employment?
+ - How can AI be used to reduce wealth inequality?
+ - What role can AI play in democratizing access to healthcare?
+ - How might AI accelerate scientific discovery in biology?
+ - What are the potential dangers of AI in authoritarian governance?
+ - How could AI improve transparency and accountability in governance?
+ - What risks are associated with AI-powered surveillance?
+ - What strategies can prevent AI from exacerbating global conflicts?
+ - How can AI help develop new medical treatments?
+ - What role might AI play in neuroscience discoveries?
+ - How can AI contribute to educational advancements?
+ - What impact could AI have on global economic stability?
+ - How can AI foster international cooperation?
+ - What are the ethical challenges of AI in genetic engineering?
+ - How could AI improve agricultural efficiency?
+ - What are the environmental impacts of AI development?
+ - How can AI help mitigate the effects of climate change?
+ - What role can AI play in sustainable development?
+ - How could AI reshape the labor market?
+ - What are the psychological impacts of AI-driven mental health solutions?
+ - How can AI contribute to the accessibility of education worldwide?
+ - What challenges arise with AI in healthcare distribution?
+ - How could AI influence the future of democratic institutions?
+ - How can AI ensure a fair and equal society?
+ - What are the potential downsides of AI in legal systems?
+ - How might AI redefine our understanding of human intelligence?
+ - How can AI foster innovation in renewable energy?
+ - What impact could AI have on personal identity and self-actualization?
+ - What safeguards are necessary for ethical AI development?
  - 如何使强大的人工智能工具免费或以低价提供给大众？
  - 公众对免费人工智能服务的需求和反应如何？
  - 免费提供人工智能服务对社会的潜在影响是什么？
